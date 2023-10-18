@@ -1,0 +1,3 @@
+Exercício 9: Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero.
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (p. 21). Edição do Kindle. 
