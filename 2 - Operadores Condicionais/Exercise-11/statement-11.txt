@@ -1,0 +1,3 @@
+Exercício 11: Escreva um programa que verifica se uma pessoa pode votar com base na idade. (Voto obrigatório para pessoas de 18 a 70 anos, facultativo para pessoas com 16, 17 e acima de 70).
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (p. 23). Edição do Kindle. 
