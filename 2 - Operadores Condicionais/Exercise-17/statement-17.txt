@@ -1,0 +1,3 @@
+Exercício 17: Escreva um programa que determina se um número é par ou ímpar.
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (p. 30). Edição do Kindle.
