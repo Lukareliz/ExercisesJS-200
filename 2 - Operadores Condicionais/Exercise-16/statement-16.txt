@@ -1,0 +1,3 @@
+Exercício 16: Escreva um programa que determina o maior entre três números.
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (p. 29). Edição do Kindle. 
