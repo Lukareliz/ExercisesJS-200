@@ -1,0 +1,5 @@
+Exercício 18: Escreva um programa que verifica se uma pessoa pode dirigir com base na idade.
+
+Descrição:  Nesse exercício, você vai criar uma função que recebe a idade de uma pessoa e verifica se ela pode dirigir. No Brasil, apenas pessoas com mais de 18 anos podem tirar carteira de habilitação.
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (p. 31). Edição do Kindle. 
