@@ -1,0 +1,5 @@
+Exercício 20: Escreva um programa que imprime uma classificação baseada na nota de um aluno.
+
+A nota máxima é 100, sendo 0 a 59(F), 60 a 69(D), 70 a 79(C), 80 a 89(B) e 90 a 100(A)
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (p. 33). Edição do Kindle. 
