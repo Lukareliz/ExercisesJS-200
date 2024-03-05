@@ -1,0 +1,5 @@
+Exercício 25: Usando um laço while, imprima os números de 10 a 1 (em ordem decrescente). 
+
+Descrição: Neste exercício, você deve criar um loop usando a estrutura de repetição while que percorra de 10 a 1 (em ordem decrescente) e imprima cada número no console.
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (p. 39). Edição do Kindle. 
