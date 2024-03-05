@@ -1,0 +1,5 @@
+Exercício 24: Usando um laço for, imprima os números de 1 a 10. 
+
+Descrição:  Neste exercício, você deve criar um loop usando a estrutura de repetição for que percorra de 1 a 10 e imprima cada número no console.
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (p. 38). Edição do Kindle. 
