@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=120&section=header"/>
+
 # ExercisesJS-200
 Duzentos exercícios de JavaScript com instruções e soluções.
 Os 200 exercícios iniciam desde o nível mais básico e vão até níveis mais complexos.
@@ -16,3 +18,5 @@ PLEASE NOTE: THIS REPOSITORY DOES NOT ILLEGALLY REPLICATE ANY PART OF THE BOOK. 
 
 # Capa do Livro | Book cover
 ![image](https://github.com/Lukareliz/ExercisesJS-200/assets/101203704/44357fc1-7bde-413c-be81-78c76e44df1c)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82aaff&height=120&section=footer"/>
