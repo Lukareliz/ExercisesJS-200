@@ -1,0 +1,5 @@
+Exercício 27: Usando um laço for, imprima a tabuada de multiplicação do número 5. 
+
+Descrição: Neste exercício, você deve criar um loop usando a estrutura de repetição for que percorra de 1 a 10 e imprima a tabuada de multiplicação do número 5.
+
+Battisti, Matheus. 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios: Domine JavaScript com exercícios interativos (Portuguese Edition) (pp. 40-41). Edição do Kindle. 
